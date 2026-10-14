@@ -1,0 +1,9 @@
+John works for Microsoft.
+Microsoft develops Azure.
+Azure provides cloud computing services.
+
+Sarah works for Microsoft.
+Sarah manages the Azure engineering team.
+
+Microsoft uses SAP for enterprise operations.
+SAP integrates with Microsoft Azure.
